@@ -122,7 +122,7 @@ public class Director extends Thread {
                 if ("A".equals(studio)) {
                     if (daysRemaining.availablePermits() == 0) {
 
-                        Nickelodeon.actualizarEstadoDirectorA("Entregando Juegos");
+                        Nickelodeon.actualizarEstadoDirectorA("Entregando capitulos");
                         Thread.sleep(1000);  //PASA UN DIA
                         payDayDirector();
                         entregarCapitulos();
@@ -132,7 +132,7 @@ public class Director extends Thread {
                 } else {
                     if (daysRemaining.availablePermits() == 0) {
 
-                        DisneyChannel.actualizarEstadoDirectorB("Entregando Juegos");
+                        DisneyChannel.actualizarEstadoDirectorB("Entregando capitulos");
                         Thread.sleep(1000);  //PASA UN DIA
                         payDayDirector();
                         entregarCapitulos();

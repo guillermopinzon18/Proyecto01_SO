@@ -349,7 +349,7 @@ public class DisneyChannel extends javax.swing.JFrame {
 
         jLabel3.setFont(new java.awt.Font("Tahoma", 1, 14)); // NOI18N
         jLabel3.setForeground(new java.awt.Color(255, 255, 255));
-        jLabel3.setText("Desarrolladores restantes:");
+        jLabel3.setText("Trabajadores restantes:");
         jPanel1.add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(20, 40, 200, 20));
 
         desarrolladoresRestantesB.setFont(new java.awt.Font("Tahoma", 0, 12)); // NOI18N
