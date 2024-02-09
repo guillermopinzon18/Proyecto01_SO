@@ -10,7 +10,7 @@ import java.util.concurrent.Semaphore;
 
 /**
  *
- * @author Sebastian Rodriguez
+ * @author Guillermo Pinzon
  */
 public class Ensambladores extends Thread {
 
