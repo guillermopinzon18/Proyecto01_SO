@@ -11,10 +11,6 @@ import java.util.concurrent.Semaphore;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
-/**
- *
- * @author Sebastian Rodriguez
- */
 public class Director extends Thread {
 
     Semaphore daysRemaining;
