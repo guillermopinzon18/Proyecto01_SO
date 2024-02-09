@@ -8,10 +8,6 @@ import interfaz.DisneyChannel;
 import interfaz.Nickelodeon;
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author Sebastian Rodriguez
- */
 public class ActoresDeDoblaje extends Thread {
 
     public static int doblajesSubidosDriveA = 0;
