@@ -8,10 +8,7 @@ import interfaz.DisneyChannel;
 import interfaz.Nickelodeon;
 import java.util.concurrent.Semaphore;
 
-/**
- *
- * @author Sebastian Rodriguez
- */
+
 public class AnimadorDePersonajes extends Thread {
 
     public static int animacionesSubidosDriveA = 0;
