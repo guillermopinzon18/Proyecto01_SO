@@ -1,0 +1,14 @@
+duracionDiasSegundos=14
+diasParaEntrega=2
+guionesNickelodeon=9
+escenariosNickelodeon=2
+personajesNickelodeon=2
+doblajesNickelodeon=1
+plotTNickelodeon=1
+ensambladoresNickelodeon=1
+guionesDisneyChannel=2
+escenariosDisneyChannel=0
+personajesDisneyChannel=0
+doblajesDisneyChannel=0
+plotTDisneyChannel=0
+ensambladoresDisneyChannel=0
